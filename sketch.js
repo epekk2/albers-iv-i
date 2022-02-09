@@ -1,6 +1,6 @@
 
-let clrs = ['#800000', '#FEF254', '#7f7c7e', 
-            '#7372f2', '#74f374']
+let clrs = ['#ffbcb8', '#FEF254', '#7f7c7e', 
+            '#7372f2', '#031e38']
 
 
 function setup() {
